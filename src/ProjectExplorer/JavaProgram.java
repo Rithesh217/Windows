@@ -1,0 +1,5 @@
+package ProjectExplorer;
+
+class JavaProgram {
+
+}
